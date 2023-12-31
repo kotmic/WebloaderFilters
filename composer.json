@@ -11,7 +11,7 @@
     "require": {
         "php": ">= 5.3.0",
         "tedivm/jshrink": "~1.0",
-        "natxet/CssMin": "dev-master"
+        "natxet/CssMin": "dev-master as 3.0.0"
     },
     "require-dev": {
         "janmarek/webloader": "~2.5",
